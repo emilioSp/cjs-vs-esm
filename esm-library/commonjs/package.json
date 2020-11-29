@@ -1,0 +1,11 @@
+{
+  "name": "esm-library",
+  "version": "1.0.0",
+  "description": "An esm library",
+  "engines": {
+    "node": "^14.15"
+  },
+  "main": "bundle.js",
+  "keywords": [],
+  "license": "ISC"
+}

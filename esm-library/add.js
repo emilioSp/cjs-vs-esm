@@ -1,0 +1,1 @@
+export const sumESM = (a, b) => a + b;
